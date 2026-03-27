@@ -19,10 +19,6 @@ I am a researcher specializing in **systems out of thermodynamic equilibrium**, 
 - [**Edi-Bot**](https://github.com/Riperedo/Edibot) - is a core part of my current research. It utilizes Evolutionary Computation (specifically Differential Evolution) to infer and fit the structural properties of liquids.
 - [**NESCGLE.jl**] Only by request. Julia-based repository to solve the Non-Equilibrium Self-Consistent Generalized Langevin Equation theory.
   
-### 📊 GitHub Stats
-![Riperedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riperedo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riperedo&layout=compact&theme=radical)
-
 ### 🌐 Connect with Me
 - 📧 **Email:** [rperedo@if.uaslp.mx](mailto:rperedo@if.uaslp.mx)
 - 💼 **LinkedIn:** [Ricardo Peredo-Ortiz](https://www.linkedin.com/in/ricardo-peredo-ortiz-6560572b5/)
